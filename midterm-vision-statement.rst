@@ -5,6 +5,7 @@ Tenure Track Midterm Vision Statement
 :author: Jason K. Moore
 :date: April 10, 2023
 :geometry: margin=25mm
+:colorlinks: true
 
 ..
    In the presentation the Tenure Track employee gives an overview of the
@@ -57,10 +58,10 @@ bicycle-rider behavior.
 I have developed a number of bicycle-rider dynamics models which I am now
 extending with the muscle actuated steering. I will combine these models with
 my rider control identification techniques to further define the essential
-neuromuscular control sensor-actuation pathways. With these physics-informed
-data driven models I will be able to predict the bicyclist's behavior in safety
-and performance critical transportation scenarios. The insights will allow us
-to design the vehicle with desired dynamics, make it adapt to the rider through
+neuromuscular control sensor-actuation pathways. With these physics-based data
+driven models I will be able to predict the bicyclist's behavior in safety and
+performance critical transportation scenarios. The insights will allow us to
+design the vehicle with desired dynamics, make it adapt to the rider through
 assistive robotics, and to help shape our transportation infrastructure to
 complement and interact with the bicycle of the future.
 
