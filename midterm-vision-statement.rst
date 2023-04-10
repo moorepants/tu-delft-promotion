@@ -1,6 +1,6 @@
-========================
-Midterm Vision Statement
-========================
+=====================================
+Tenure Track Midterm Vision Statement
+=====================================
 
 :author: Jason K. Moore
 
@@ -34,8 +34,10 @@ Reasoning through computational thinking provides learners a complementary
 learning tool on par wth natural language, visualizations, and mathematics. To
 that end, I have developed three BSc (UCD) and three MSc courses (1 at UCD & 2
 at TUD) where I have either built them entirely on the principals of
-computational thinking or heavily woven it in. I have taught these six course
-fourteen times to approximately 800 students.
+computational thinking or heavily woven it in. For example, in courses I may
+lead the students in live coding exercises to explore and understand a new
+dynamics concept. I have taught these six course fourteen times to
+approximately 800 students.
 
 .. _computational thinking: https://en.wikipedia.org/wiki/Computational_thinking
 
@@ -51,19 +53,19 @@ Here at TU Delft, I am currently developing and teaching two Master of Science
 courses: "`Special Topics in Sports Engineering`_", an elective, and
 "`Multibody Dynamics B`_", a Mechanical Engineering track core course. Mulibody
 Dynamics serves 200 students per year and Special Topics provides a two week
-for credit summer course for about 30 students from around the Netherlands and
-Europe.
+for credit summer course for about 30 students per year from around The
+Netherlands and Europe.
 
 .. _Special Topics in Sports Engineering: https://moorepants.github.io/me41035/
 .. _Multibody Dynamics B: https://moorepants.github.io/me41055/
 
-In Multibody Dynamics, I have flipped the course providing as series of lecture
-videos paired with in-person guided homework work sessions. I wrote a 300 page
-open access online inerative computational oriented book, `Learn Multibody
-Dynamics`_ for the course which is paired with a set of 12 computational
-homeworks including conceptual questions the students complete each week as an
-optional portion of the final grade and to gain formative feedback for the exam
-preparation.
+In Multibody Dynamics, I make use of active learning practices by providing a
+series of lecture videos paired with in-person guided homework work sessions. I
+wrote a 300 page open access online interactive computational oriented book,
+`Learn Multibody Dynamics`_ for the course which is paired with a set of 12
+computational homeworks including conceptual questions the students complete
+each week as an optional portion of the final grade and to gain formative
+feedback for the exam preparation.
 
 .. _Learn Multibody Dynamics: https://moorepants.github.io/learn-multibody-dynamics/
 
@@ -75,12 +77,14 @@ experiments to develop the principles of mechanics, data analyses, computation,
 and physiology of their models. This course is a key offering for our Sports
 Engineering track certificate.
 
-I see the multibody dynamics course remaining an important course for a number
-of our MSc tracks that need a solid foundation in modeling and simulating
-multibody dynamics in robotics, vehicles, musculoskeletal systems, etc. I hope
-to transform Special Topics into a full blown bicycle engineering course,
-unique in the world, and increase the number of students served by this hands
-on approach to learning.
+I have received personal positive feedback from students on on the pedagogical
+approaches of both courses, with particular appreciation of being able to solve
+realistic problems at the course's end. I see the multibody dynamics course
+remaining an important course for a number of our MSc tracks that need a solid
+foundation in modeling and simulating multibody dynamics in robotics, vehicles,
+musculoskeletal systems, etc. I hope to transform Special Topics into a full
+blown bicycle engineering course, unique in the world, and increase the number
+of students served by this hands on approach to learning.
 
 Research
 ========
@@ -90,15 +94,18 @@ with trips taken by bicycle to reduce transportation energy usage, reduce
 pollution and global warming, improve the health of society, and increase
 happiness. The Netherlands leads all other countries, by a large margin, in
 bicycle transportation mode share (27%), yet we are also still a heavily car
-dependent nation that has had this mode share for decades with no growth in
-bicycling. Most other countries have dismal bicycle use and developing
-countries are following in wrong footsteps of North America and Europe's car
-use. Bicycling is the most energy efficient mode of transport and most car
-trips are under 15 km. Stated simply, these trips have to be changed to
-bicycling for the best transportation future. As an American resident of the
-Netherlands, I have a dual perspective of experience in one of the worst
-developed countries for bicycling and the best that places me in a unique
-position to help with global and national solutions in this space.
+dependent nation for decades with no growth in bicycling. Most other countries
+have dismal bicycle use and developing countries are following in wrong
+footsteps of North America and Europe's car use. Bicycling is the most energy
+efficient mode of transport and most car trips are under 15 km. Stated simply,
+these trips have to be changed to bicycling for the best transportation future
+and I intend to play a role in that change through bicycle engineering.
+
+
+As an American resident of the Netherlands, I have a dual perspective of
+experience in one of the worst developed countries for bicycling and the best
+that places me in a unique position to help with global and national solutions
+in this space.
 
 Bicycle transportation research has skyrocketed in the last 20 years and TU
 Delft has the world's only significant and well supported bicycle engineering
