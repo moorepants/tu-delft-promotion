@@ -134,7 +134,7 @@ approximately 800 students.
 Here at TU Delft, I am currently developing and teaching two Master of Science
 courses: "`Multibody Dynamics B`_", a Mechanical Engineering track core course,
 and "`Special Topics in Sports Engineering`_", an elective. Mulibody Dynamics
-serves 200 students per year and Special Topics provides a two week for credit
+serves 200 students per year and Special Topics provides a two week 3 ECTS
 summer course for about 30 students per year from around The Netherlands and
 Europe.
 
@@ -144,7 +144,7 @@ Europe.
 In Multibody Dynamics, I make use of active learning practices by providing a
 series of lecture videos paired with in-person guided homework work sessions. I
 wrote a 300 page open access online interactive computational oriented book,
-`Learn Multibody Dynamics`_ for the course which is paired with a set of 12
+`Learn Multibody Dynamics`_, for the course which is paired with a set of 12
 computational homeworks including conceptual questions the students complete
 each week as an optional portion of the final grade and to gain formative
 feedback for the exam preparation.
@@ -156,18 +156,18 @@ groups to develop a computational predictive model for a cycling time trial
 based on a series of interdisciplinary lectures assembled from sports
 engineering experts around Europe and paired with a series of student designed
 experiments to develop the principles of mechanics, data analyses, computation,
-and physiology of their models. This course is a key offering for our Sports
-Engineering MSc designation.
+and physiology to strengthen their models. This course is a key offering for
+our Sports Engineering MSc designation.
 
 I have received personal positive feedback from students on on the pedagogical
 approaches of both courses, with particular appreciation of being able to solve
-realistic problems at the course's end. The number of students increased from
-160 to 210 in the second offering. I see multibody dynamics remaining an
-important course for our MSc tracks that need a solid foundation in modeling
-and simulating robotics, vehicles, mechanisms, musculoskeletal systems, etc. I
-hope to transform Special Topics into a full blown bicycle engineering course,
-unique in the world, and increase the number of students served by this
-hands-on approach to learning.
+realistic problems at the course's end. The number of students in Multibdoy
+Dynamics B has increased from 160 to 210 since last year. I see multibody
+dynamics remaining an important foundational course for our MSc tracks that
+need to model and simulate robotics, vehicles, mechanisms, musculoskeletal
+systems, etc. I hope to transform Special Topics in Sports Engineering into a
+full blown bicycle engineering course, unique in the world, and increase the
+number of students served by this hands-on approach to learning.
 
 Organization Contributions
 ==========================
@@ -192,9 +192,9 @@ group centered around the bicycle lab where I work work to foster an inclusive
 and participatory environment. I have established regular lab meetings, an
 onboarding process for students and staff alike, a collaboratively developed
 lab guide, social events for our team, and a culture of collective team work
-and share responsibilities. My goal is to empower everyone involved in our
+and shared responsibilities. My goal is to empower everyone involved in our
 research and educational activities to take ownership and collectively drive
-our mission.
+our mission while also meeting their personal goals.
 
 Conclusion
 ==========
@@ -207,6 +207,6 @@ My work with safety in sports will be expanded at the international level,
 where I will target Horizon Europe opportunities in health and leverage my
 international collaborations. On the education front, I want to formally
 publish my multibody dynamics book and then help others develop similar
-teaching approaches and materials. Lastly, I want to have fun working on
-challenging research with my group and collaborators so that we can make the
+teaching approaches and materials. Lastly, I want to have a lot of fun working
+on challenging research with my group and collaborators so that we can make the
 world better with more bicycles and more people riding them.
