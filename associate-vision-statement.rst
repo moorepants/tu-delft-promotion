@@ -21,7 +21,7 @@ I joined Delft University of Technology as an assistant professor on August 1,
 2020 following five years as an Assistant Professor of Teaching at the
 University of California, Davis (UCD). I came to TU Delft (TUD) to pursue my
 dream of researching bicycle engineering and teaching dynamics. Due to The
-Netherland's unique appreciation for bicycling and TU Delft students' being
+Netherland's unique appreciation for bicycling and TU Delft students being
 known as the fietsenmakers, this may be the only place in the world where this
 could come true. The joy of engineering and my love of one of humankind's most
 elegant and important machines drives me. I desire to pass that feeling on to
@@ -34,24 +34,24 @@ Research
 Societies around the globe must vastly increase bicycle use to reduce
 transportation energy usage, reduce pollution and global warming, improve the
 health of society, and increase happiness. The Netherlands leads all other
-countries, by a large margin, in bicycle transportation mode share (27%), yet
-we are also a heavily car dependent nation with no growth in bicycle mode share
-for decades now. Most other countries have dismal bicycle use and developing
-countries are following in wrong footsteps of North America and Europe. Most
-car trips are under 15 km and these distances are accessible by bicycle with it
-being the most energy efficient mode of human transport. Stated simply, these
-car trips have to be changed to bicycle trips for our best transportation
-future. I intend to play a role in that change through advancing bicycle
-engineering.
+countries by a large margin in bicycle transportation mode share (27%). Yet we
+are also a heavily car dependent nation with no growth in bicycle mode share
+for decades. Most other countries have dismal bicycle use and developing
+countries are following in the wrong footsteps of North America and Europe with
+growing automobile use. Even though the bicycle is the most energy efficient
+mode of human transport, most trips under 15 km, which are distances accessible
+by bicycle, are still made by car. Stated simply, these car trips have to be
+changed to bicycle trips for our best transportation future. I intend to play a
+role in this transformation through advancing bicycle engineering.
 
-Bicycle transportation research has skyrocketed in the last 20 years
-and TU Delft has the world's only significant and well supported `bicycle
-engineering laboratory`_, which I now lead. My vision is to make significant
-contributions to the wider adoption of bicycling around the world by
-understanding how people interact with the bicycle and the transportation
-environment. My mechanical and biomechanical foundation begins with
-understanding of the bicycle-rider dynamic system, which I categorize into four
-fundamental research areas: 1) vehicle dynamics, 2) rider biomechanics, 3)
+Despite the dominance in automobile use, bicycle transportation research has
+skyrocketed in the last 20 years and TU Delft has the world's only significant
+and well supported `bicycle engineering laboratory`_, which I now lead. My
+vision is to make significant contributions to the wider adoption of bicycling
+around the world by understanding how people interact with the bicycle and the
+transportation environment. My mechanical and biomechanical foundation begins
+with understanding of the bicycle-rider dynamic system, which I categorize into
+four fundamental research areas: 1) vehicle dynamics, 2) rider biomechanics, 3)
 rider neuromuscular control, and 4) bicycle-rider behavior.
 
 .. _bicycle engineering laboratory: https://mechmotum.github.io
@@ -104,8 +104,8 @@ During my postdoctoral research, I applied similar but new methods to identify
 human control in standing and walking. I wrote the first "data paper" in the
 field of biomechanics [Moore2015]_. It became my second most cited first author
 paper and provides an elaborate reusable dataset for walking studies which has
-widely reused. This triggered numerous biomechanics data papers in the
-proceeding years by other authors. For the standing and walking control
+been widely reused. This triggered numerous biomechanics data papers in the
+subsequent years by other authors. For the standing and walking control
 identification problem, I developed software [Moore2018]_ for extremely
 efficient trajectory optimization and parameter identification optimal control
 problems using collocation methods and demonstrated closed loop identification
@@ -113,12 +113,13 @@ of standing with the technique [Moore2015a]_.
 
 During my Assistant Professorship of Teaching in my education research, I
 integrated interactive textbooks tools into LibreTexts as a Co-PI on a large US
-Department of Education grant. LibreTexts is likely the most visited open
-access textbook website in the world and over ten textbooks use the interactive
-features we developed. In my engineering research, I worked on optimal design
-for safety of ski jumps, predicting rowing performance with limited kinematic
-data, and developing bicycle dynamics design methods using global optimization
-techniques all with undergraduate research teams.
+Department of Education grant of $5M. LibreTexts is likely the most visited
+open access textbook website in the world and over ten textbooks at
+universities around the USA use the interactive features we developed. In my
+engineering research, I worked on optimal design for safety of ski jumps,
+predicting rowing performance with limited kinematic data, and developing
+bicycle dynamics design methods using global optimization techniques all with
+undergraduate research teams.
 
 For close to 15 years, alongside my primary research work, I have been a core
 developer of SymPy_, an open source computer algebra system, where I have
@@ -145,17 +146,17 @@ exciting development is the introduction of a realistic bicycle-rider model
 into traffic micro simulation [Schmidt2023]_ which we will make available for
 practitioners through the widely used SUMO simulation tool in the coming year.
 
-My current and future work is focused on refining and expanding our
-understanding of human-machine control of the bicycle-rider system and using
-these findings to improve performance and safety in sports, improve
-transportation systems, and applying technological innovations in bicycle
-design.
+All of this leads into my current and future work that is focused on refining
+and expanding our understanding of human-machine control of the bicycle-rider
+system and using these findings to improve performance and safety in sports,
+improve transportation systems, and applying technological innovations in
+bicycle design.
 
 Valorization
 ============
 
-I want to see TU Delft be the world's hub for bicycle engineering research and
-for us to broadly support society's needs for innovations in bicycle
+I want to see TU Delft become the world's hub for bicycle engineering research
+and for us to broadly support society's needs for innovations in bicycle
 technology. In my brief time here, I have worked to establish and engage a
 growing network of bicycle interested industry partners. I currently work in
 close partnership with Royal Dutch Gazelle, Team DSM, and Bosch eBike Systems
@@ -171,17 +172,19 @@ conference attendees were from industry.
 I was awarded a Chan-Zuckerberg Essential Open Source Software for Science
 grant (350k EUR) with partners SymPy, Quantsight, and the University of Bristol
 to build out the rider biomechanical modeling capabilities mentioned above. I
-followed this with a 3mE cohesion grant (200k EUR) in collaboration with Azita
-Dabiri (DCSC), Frederik Schulte (Maritime), and Riender Happee (CoR) to expand
-the use of the bicycle-rider models into micro traffic simulation. Our first
-models of realistic bicycle behavior will be incorporated into the German
-Aerospace Center's SUMO open source tool in the coming year. Most recently,
-Holger Caeser (CoR) and I have received two grants to study bicycle rider
-perception with Boreal Bikes, a manufacturer of advanced instrumented bicycles.
+followed this with a 3mE cohesion grant (200k EUR) in collaboration with
+multiple departments (Azita Dabiri (DCSC), Frederik Schulte (Maritime), and
+Riender Happee (CoR)) to expand the use of the bicycle-rider models into micro
+traffic simulation. Our first models of realistic bicycle behavior will be
+incorporated into the German Aerospace Center's SUMO open source tool in the
+coming year. Most recently, Holger Caeser (CoR) and I have received two grants
+of 30k EUR and 100k EUR to study bicycle rider perception using Boreal Bikes'
+LIDAR equipped instrumented bicycle.
 
-Lastly, I want to create research consortium of bicycle companies and TU Delft
-researchers with the intent to identify common research needs across industry
-which we can tackle for broad benefit.
+Lastly, I want to create a research consortium of bicycle companies and TU
+Delft researchers with the intent to identify common research needs across
+industry which we can tackle for broad societal benefit. Hosting the conference
+here at TU Delft, will be part of the catalyst for this.
 
 Education
 =========
@@ -194,10 +197,10 @@ Reasoning through computational thinking provides learners a complementary
 learning tool on par with natural language, visualizations, and mathematics. To
 that end, I have developed three BSc (UCD) and three MSc courses (1 at UCD & 2
 at TUD) where I have either built them entirely on the principals of
-computational thinking or heavily woven it in. For example, in courses I may
-lead the students in live coding exercises to explore and understand a new
-dynamics concept. I have taught these six course fifteen times to approximately
-800 students.
+computational thinking or heavily woven it in. For example, in courses I lead
+students in live coding exercises to explore and understand a new dynamics
+concept. I have taught these six courses fifteen times to approximately 800
+students.
 
 .. _computational thinking: https://en.wikipedia.org/wiki/Computational_thinking
 
@@ -211,7 +214,7 @@ dynamics concept. I have taught these six course fifteen times to approximately
 
 Here at TU Delft, I am currently developing and teaching two Master of Science
 courses: "`Multibody Dynamics`_", a Mechanical Engineering MSc track core
-course, and "`Special Topics in Sports Engineering`_", an elective. Mulibody
+course, and "`Special Topics in Sports Engineering`_", an elective. Multibody
 Dynamics serves 150 students per year and Special Topics provides a two week 3
 ECTS summer course for about 25 students per year from around The Netherlands
 and Europe.
@@ -240,7 +243,7 @@ Amsterdam, Technical University Vienna, and Chemnitz University of Technology
 for this course. This course is a key offering for our Sports Engineering MSc
 designation.
 
-I have received personal positive feedback from students on on the pedagogical
+I have received personal positive feedback from students on the pedagogical
 approaches of both courses, with particular appreciation of being able to solve
 realistic problems at the course's end. As an assistant professor of teaching
 in California, my student evaluations of teaching were consistently above
@@ -249,8 +252,8 @@ students since last year. I see multibody dynamics remaining an important
 foundational course for our MSc tracks that need to model and simulate
 robotics, vehicles, mechanisms, musculoskeletal systems, etc. I hope in the
 future to transform Special Topics in Sports Engineering into a full blown
-bicycle engineering course, unique in the world, and increase the number of
-students served by this hands-on approach to learning.
+bicycle engineering course that is unique in the world and increase the number
+of students served by this hands-on approach to learning.
 
 Organization Contributions
 ==========================
@@ -274,13 +277,13 @@ Leadership
 ..
    role as the leader of his/her own research group.
 
-I firmly believe that a good leader focuses on the people they are leading
-first and foremost. Building trust, camaraderie, equity, and joy in our shared
+I firmly believe that a good leader focuses first and foremost on the people
+they are leading. Building trust, camaraderie, equity, and joy in our shared
 work sets the foundation to excel at our jobs and studies. I lead a research
-group centered around the bicycle lab where I work work to foster an inclusive
-and participatory environment. I have established regular lab meetings, an
+group centered around the bicycle lab where I work to foster an inclusive and
+participatory environment. I have established regular lab meetings, an
 on-boarding process for students and staff alike, a collaboratively developed
-lab guide, social events for our team, and a culture of collective team work
+lab guide, social events for our team, and a culture of collective teamwork
 and shared responsibilities. My goal is to empower everyone involved in our
 research and educational activities to take ownership and collectively drive
 our mission while also meeting their personal goals.
@@ -290,17 +293,17 @@ Conclusion
 
 With the heavy effects of coronavirus now past, I believe I have established a
 strong foundation for success here at TU Delft. I plan to lead a European
-Commission Horizon proposal effort in 2024 with a large consortium of
-companies. I am leading a work package for an NWO Perspectief proposal to
-increase movement with sports. I intend to target an NWO Open Technology
-Programs to further our work in bicycle design to push performance in
-professional cycling sports and to take the traffic simulation modeling
-cohesion project outside of the simulation environment and into a living lab.
-On the education front, I want to formally publish my multibody dynamics book
-and then help others develop similar teaching approaches and materials here at
-TU Delft. Lastly, I want to have a lot of fun working on challenging research
-with my group and collaborators so that we can make the world better with more
-bicycles and more people riding them.
+Commission Horizon proposal effort in 2024 with a large bicycle company. I am
+leading a work package for an NWO Perspectief proposal to increase movement
+with sports. I intend to target an NWO Open Technology Programs to further our
+work in bicycle design to push performance in professional cycling sports and
+to take the traffic simulation modeling cohesion project outside of the
+simulation environment and into a living lab.  On the education front, I want
+to formally publish my multibody dynamics book and then help others develop
+similar teaching approaches and materials here at TU Delft. Lastly, I want to
+have a lot of fun working on challenging research with my group and
+collaborators so that we can make the world better with more bicycles and more
+people riding them.
 
 .. raw:: latex
 
