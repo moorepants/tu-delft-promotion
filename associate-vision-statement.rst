@@ -42,7 +42,7 @@ growing automobile use. Even though the bicycle is the most energy efficient
 mode of human transport, most trips under 15 km, which are distances accessible
 by bicycle, are still made by car. Stated simply, these car trips have to be
 changed to bicycle trips for our best transportation future. I intend to play a
-role in this transformation through advancing bicycle engineering.
+role in this transformation through advancing bicycle technology.
 
 Despite the dominance in automobile use, bicycle transportation research has
 skyrocketed in the last 20 years and TU Delft has the world's only significant
@@ -50,22 +50,21 @@ and well supported `bicycle engineering laboratory`_, which I now lead. My
 vision is to make significant contributions to the wider adoption of bicycling
 around the world by understanding how people interact with the bicycle and the
 transportation environment. My mechanical and biomechanical foundation begins
-with understanding of the bicycle-rider dynamic system, which I categorize into
-four fundamental research areas: 1) vehicle dynamics, 2) rider biomechanics, 3)
-rider neuromuscular control, and 4) bicycle-rider behavior.
+with understanding of the bicycle-rider human-machine dynamic system, which I
+categorize into four fundamental research areas: 1) vehicle dynamics, 2) rider
+biomechanics, 3) rider neuromuscular control, and 4) bicycle-rider behavior.
 
 .. _bicycle engineering laboratory: https://mechmotum.github.io
-
 
 I have developed a number of unique bicycle-rider dynamics models. I will
 combine these models with my rider control identification techniques to further
 define the essential neuromuscular control sensor-actuation pathways. With
 these physics-based data driven models I will be able to predict the
 bicyclist's behavior in safety and performance critical transportation
-scenarios. The insights will allow us to design the vehicle with desired
-dynamics, make it adapt to the rider through assistive robotics, and to help
-shape our transportation infrastructure to complement and interact with the
-bicycle of the future.
+scenarios and improve performance in sport cycling. The insights will allow us
+to design the vehicle with desired dynamics, make it adapt to the rider through
+assistive robotics, and to help shape our transportation infrastructure to
+complement and interact with the bicycle of the future.
 
 As far as I know, I am the only researcher that is approaching the innovations
 in bicycling from this merger of vehicle dynamics and rider biomechanical
@@ -98,13 +97,13 @@ dynamics of different bicycle designs using only a single characteristic number
 ([Hess2012]_, [Moore2016]_). The broad set of experimental and theoretical work
 that I present in my dissertation has been widely cited (75 citations) in the
 field where the best papers have between 100-200 citations, with a very small
-number reaching up to 500 citations.
+number reaching over 500 citations.
 
 During my postdoctoral research, I applied similar but new methods to identify
 human control in standing and walking. I wrote the first "data paper" in the
 field of biomechanics [Moore2015]_. It became my second most cited first author
 paper and provides an elaborate reusable dataset for walking studies which has
-been widely reused. This triggered numerous biomechanics data papers in the
+been widely used. This triggered numerous biomechanics data papers in the
 subsequent years by other authors. For the standing and walking control
 identification problem, I developed software [Moore2018]_ for extremely
 efficient trajectory optimization and parameter identification optimal control
@@ -119,7 +118,7 @@ universities around the USA use the interactive features we developed. In my
 engineering research, I worked on optimal design for safety of ski jumps,
 predicting rowing performance with limited kinematic data, and developing
 bicycle dynamics design methods using global optimization techniques all with
-undergraduate research teams.
+undergraduate research teams; all providing foundations for my current work.
 
 For close to 15 years, alongside my primary research work, I have been a core
 developer of SymPy_, an open source computer algebra system, where I have
@@ -134,7 +133,7 @@ contribution due to the broad use of the software.
 .. _SymPy: https://www.sympy.org
 
 In the three years at TU Delft as an assistant professor, I have revived the
-research started in my PhD and postdoctoral research. Our most significant
+research started in my PhD and postdoctoral work. Our most significant
 results are tied to the development of a balance-assist bicycle. We have shown
 that a steering motor programmed to recover as a human would can reduce
 undesired motions in elderly bicycling [Alizadehsaravi2023]_. We have also
@@ -183,8 +182,8 @@ LIDAR equipped instrumented bicycle.
 
 Lastly, I want to create a research consortium of bicycle companies and TU
 Delft researchers with the intent to identify common research needs across
-industry which we can tackle for broad societal benefit. Hosting the conference
-here at TU Delft, will be part of the catalyst for this.
+industry which we can tackle for broad societal benefit. Hosting the BMD 2023
+conference here at TU Delft, will be part of the catalyst for this.
 
 Education
 =========
@@ -239,15 +238,15 @@ engineering experts around Europe. The lectures are paired with a series of
 student designed experiments to develop the principles of mechanics, data
 analyses, computation, and physiology to strengthen their models. I partner
 with Sheffield-Hallam University, Aalborg University, Vrije Universiteit
-Amsterdam, Technical University Vienna, and Chemnitz University of Technology
-for this course. This course is a key offering for our Sports Engineering MSc
-designation.
+Amsterdam, Technical University Vienna, Chemnitz University of Technology and
+our TUD Sports Engineering Institute for this course. This course is a key
+offering for our Sports Engineering MSc designation.
 
-I have received personal positive feedback from students on the pedagogical
-approaches of both courses, with particular appreciation of being able to solve
-realistic problems at the course's end. As an assistant professor of teaching
-in California, my student evaluations of teaching were consistently above
-average. The number of students in Multibody Dynamics has increased by 30
+As an assistant professor of teaching in California, my student evaluations of
+teaching were consistently above average. I have received personal positive
+feedback from students on the pedagogical approaches of both TUD courses, with
+particular appreciation of being able to solve realistic problems at the
+course's end. The number of students in Multibody Dynamics has increased by 30
 students since last year. I see multibody dynamics remaining an important
 foundational course for our MSc tracks that need to model and simulate
 robotics, vehicles, mechanisms, musculoskeletal systems, etc. I hope in the
@@ -298,8 +297,8 @@ leading a work package for an NWO Perspectief proposal to increase movement
 with sports. I intend to target an NWO Open Technology Programs to further our
 work in bicycle design to push performance in professional cycling sports and
 to take the traffic simulation modeling cohesion project outside of the
-simulation environment and into a living lab.  On the education front, I want
-to formally publish my multibody dynamics book and then help others develop
+simulation environment and into a living lab. On the education front, I want to
+formally publish my multibody dynamics book and then help others develop
 similar teaching approaches and materials here at TU Delft. Lastly, I want to
 have a lot of fun working on challenging research with my group and
 collaborators so that we can make the world better with more bicycles and more
