@@ -84,9 +84,11 @@ Midterm committee evaluation, April 24, 2023 (7 years, 8 months as asst. prof; 2
    from other Americans who have been promoted here.
 Request to go in front of the promotion committee, Monday, May 1, 2023
    Following the midterm results, I requested to go before the promotion
-   committee. My chair and supervisor agreed and wrote a support letter to the
-   Dean. I met with the committee chair and the Dean and they agreed to let me
-   proceed with the interview with the committee.
+   committee as soon as possible given that I had 8 years of accomplisments and
+   experience as an assistant professor. My chair and supervisor agreed and
+   wrote a support letter to the Dean. I met with the committee chair and the
+   Dean and they agreed to let me proceed with the interview with the
+   committee.
 Switch to Academic Career Track, 2023
    I had the option to switch tracks and I did (sometime after the midterm) and
    signed a new permanent contract.
