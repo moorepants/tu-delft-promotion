@@ -61,6 +61,16 @@ Academic Career Track
    moved to a non-professor career track and may not retain the assistant
    professor title.
 
+Documents
+=========
+
+Midterm
+  - [Vision Statement](midterm-vision-statement.rst)
+Loopbaan
+  - [Vision Statement](associate-vision-statement.rst)
+  - [CV](jkm-loopbaan-cv-2023-11-01.pdf)
+  - [References](references.rst)
+
 Results
 =======
 
