@@ -65,13 +65,18 @@ Results
 =======
 
 Midterm committee evaluation, April 24, 2023 (7 years, 8 months as asst. prof; 2 years, 9 months @ TU Delft)
-   It was communicated that I was right on track and that I should request
-   promotion assessment when I "am on speed with publications from TU Delft"
-   and acquired funding for one or two PhD positions. Additionally, it was
-   suggested I have more focus when presenting my research, get to know the
-   organization and way of working in Dutch academia better, to proactively
-   strengthen my leadership, and to take advice from other Americans who have
-   been promoted here.
+   Following the interview, it was communicated that I was right on track and
+   that I should request promotion assessment when I "am on speed with
+   publications from TU Delft" and acquired funding for one or two PhD
+   positions. Additionally, it was suggested I have more focus when presenting
+   my research, get to know the organization and way of working in Dutch
+   academia better, to proactively strengthen my leadership, and to take advice
+   from other Americans who have been promoted here.
+Request to go in front of the promotion committee, Monday, May 1, 2023
+   Following the midterm results, I requested to go before the promotion
+   committee. My chair and supervisor agreed and wrote a support letter to the
+   Dean. I met with the committee chair and the Dean and they agreed to let me
+   proceed with the interview with the committee.
 Switch to Academic Career Track, 2023
    I had the option to switch tracks and I did (sometime after the midterm) and
    signed a new permanent contract.
