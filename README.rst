@@ -3,12 +3,12 @@ Introduction
 
 This repository contains materials and information regarding my academic
 promotion process at Delft University of Technology since I began their as an
-assistant professor on August 1, 2020. This follows a similar repository I
-shared for the promotion process for my Assistant Professor of Teaching
-position at the University of California, Davis from 2015-2020:
-https://github.com/moorepants/lpsoe-merit-and-tenure. I share these materials
-to be transparent and to possibly help or inform others going through the same
-or similar processes.
+assistant professor (UD2, salary scale 11-6) on August 1, 2020. This follows a
+similar repository I shared for the promotion process for my Assistant
+Professor of Teaching position at the University of California, Davis from
+2015-2020: https://github.com/moorepants/lpsoe-merit-and-tenure. I share these
+materials to be transparent and to possibly help or inform others going through
+the same or similar processes.
 
 I began on the "Tenure Track" process which was introduced at the 3mE faculty
 sometime in the 2010s. This followed a more traditional Dutch academic process
@@ -82,6 +82,11 @@ Midterm committee evaluation, April 24, 2023 (7 years, 8 months as asst. prof; 2
    my research, get to know the organization and way of working in Dutch
    academia better, to proactively strengthen my leadership, and to take advice
    from other Americans who have been promoted here.
+Promoted to UD1 from UD2, Monday, May 1, 2023
+   Passing the midterm and teaching qualification courses (which I gained
+   exemption due to 5+ years teaching experience prior to TUD) cause me to be
+   promoted from asst. prof 2 (UD2) to asst. prof 1 (UD1). This gave me a
+   salary scale of 12, step 3.
 Request to go in front of the promotion committee, Monday, May 1, 2023
    Following the midterm results, I requested to go before the promotion
    committee as soon as possible given that I had 8 years of accomplisments and
