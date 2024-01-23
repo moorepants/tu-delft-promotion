@@ -2,7 +2,7 @@ Introduction
 ============
 
 This repository contains materials and information regarding my academic
-promotion process at Delft University of Technology since I began their as an
+promotion process at Delft University of Technology since I began there as an
 assistant professor (UD2, salary scale 11-6) on August 1, 2020. This follows a
 similar repository I shared for the promotion process for my Assistant
 Professor of Teaching position at the University of California, Davis from
