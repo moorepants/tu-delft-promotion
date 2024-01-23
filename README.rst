@@ -11,11 +11,12 @@ materials to be transparent and to possibly help or inform others going through
 the same or similar processes.
 
 I began on the "Tenure Track" process which was introduced at the 3mE faculty
-sometime in the 2010s. This process followed a more traditional Dutch academic
-process before that where you could possibly be promoted from Universitair
-docent -> Universitair hoofddocent -> Hoogleraar (which are still technically
-our titles in the new process). I switched to the "Academic Career Track"
-process in mid-2023 as the prior process is being abandoned, see below.
+sometime in the 2010s. This process was introduced over the prior more
+traditional Dutch academic process before that where you could possibly be
+promoted from Universitair docent -> Universitair hoofddocent -> Hoogleraar
+(which are still technically our titles in the new process). I switched to the
+"Academic Career Track" process from the "Tenure Track" process in mid-2023 as
+the prior process is being phased out.
 
 Process Explanation
 ===================
